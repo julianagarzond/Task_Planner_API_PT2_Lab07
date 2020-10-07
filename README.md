@@ -1,4 +1,4 @@
-#Laboratorio 7
+# Laboratorio 7
 Código de Honor
 ------
 Debes seguir el Código de honor del ingeniero de sistemas para defender el estándar de integridad académica de la ECI:
