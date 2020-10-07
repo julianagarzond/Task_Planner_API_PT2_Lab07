@@ -1,4 +1,14 @@
 # Laboratorio 7
+## En el momento de calificar por favor avisar para activar el servicio
+
+https://taskplannerapifunc.azurewebsites.net/api/add-task?code=PzIJNcc9/fqGfpNmrWDsaW9Rwieb0I9w3Z0QWKu5SbCmDCtfnG0yhA==
+
+
+https://taskplannerapifunc.azurewebsites.net/api/list-task?code=88TNpVcZRm7Onbxx5F8/TAX1/AiiXwWfdq57a50m6HoIobll4BtI1A==
+
+
+
+
 Código de Honor
 ------
 Debes seguir el Código de honor del ingeniero de sistemas para defender el estándar de integridad académica de la ECI:
