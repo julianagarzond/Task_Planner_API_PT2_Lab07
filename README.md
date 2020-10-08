@@ -6,6 +6,8 @@ https://taskplannerapifunc.azurewebsites.net/api/add-task?code=PzIJNcc9/fqGfpNmr
 
 https://taskplannerapifunc.azurewebsites.net/api/list-task?code=88TNpVcZRm7Onbxx5F8/TAX1/AiiXwWfdq57a50m6HoIobll4BtI1A==
 
+## front
+https://github.com/julianagarzond/Task_Planner_FrontEnd_Lab06.git
 
 
 
